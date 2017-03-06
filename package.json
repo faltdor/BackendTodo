@@ -1,0 +1,18 @@
+{
+  "name": "meantodos",
+  "version": "1.0.0",
+  "description": "Todo backend server",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "@faltdor",
+  "license": "MIT",
+  "dependencies": {
+    "body-parser": "^1.17.0",
+    "ejs": "^2.5.6",
+    "express": "^4.15.0",
+    "jade": "^1.11.0",
+    "mongojs": "^2.4.0"
+  }
+}
